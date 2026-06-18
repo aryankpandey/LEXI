@@ -2,7 +2,7 @@
 
 > A voice-first AI assistant built for natural, real-time conversations.
 
-<img width="1600" height="1280" alt="screen" src="https://github.com/user-attachments/assets/185bae57-ce0a-4f1f-ae5f-b1856ed4677d" />
+## <img width="1600" height="1280" alt="screen" src="https://github.com/user-attachments/assets/185bae57-ce0a-4f1f-ae5f-b1856ed4677d" />
 
 
 ## What is LEXI?
