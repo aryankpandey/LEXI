@@ -6,7 +6,7 @@
 
 ## What is LEXI?
 
-LEXI is an AI assistant designed around one simple idea:
+LEXI is an AI assistant designed around one simple idea:-
 
 **Humans speak. AI should speak back.**
 
